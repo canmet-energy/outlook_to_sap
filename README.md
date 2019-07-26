@@ -8,8 +8,8 @@
 * You each quater / Performance review would you like to know where your time was spent?
 
 
-If you agree you can use this python script to
-This script will scan your Out
+You can use this python script to:
+
     1. scan your Outlook Calendar
     2. compare appointments that you have tagged to your project list
     3. add current week to your clipboard
@@ -40,7 +40,7 @@ git clone https://github.com/canmet-energy/outlook_to_sap.git
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/command.png)
 
 6. Go to your SAP week Data Entry area, select the first Cost Center field and hit CTRL+v.
-![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/sap_paster1.png)
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/sap_paste1.png)
 
 7. You now have entered the week. Review the hours so it makes sense.  
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/finish.png)
