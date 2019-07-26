@@ -23,11 +23,11 @@ cd c:/
 git clone https://github.com/canmet-energy/outlook_to_sap.git
 ```
 
-2. Edit your projects list by modifying the Excel projects.xlsx in the resources folder. The default is set to mine like this. 
+2. Edit your projects list by modifying the Excel projects.xlsx in the resources folder. The default is set to mine like this. Note the short project_nicknames that I gave for each project that we will use later.
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/Excel.png)
 
 
-3. Use Prefixes for your events/meetings in outlook to match the nicknames that you have defined in your projects.xlsx file.
+3. Use Prefixes for your events/meetings in outlook to match the nicknames that you have defined in your projects.xlsx file. For example to charge to the **Pathyways Project**. I prefix any timeslot with a **PW:** prefix I defined in my Excel file. 
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/outlook.png)
 
 3. Open up SAP and go to the week you wish to examine. Get the weeknumber.
