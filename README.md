@@ -17,7 +17,7 @@ This script will scan your Out
 
 ## Simple Way
 
-Before we start, clone this repository directly to your C: from git. You must have Git installed.
+1. Before we start, clone this repository directly to your C: from git. You must have Git installed.
 ```bash
 cd c:/
 git clone https://github.com/canmet-energy/outlook_to_sap.git
