@@ -1,6 +1,6 @@
 # Outlook Data Anaylsis / SAP Timesheet helper
 
-#Why
+## Why
 * Do you hate entering your timesheets in SAP? 
 * Do you find it is a one-way flow of information that you can't really use to manage your own time?
 * Do you struggle to figure out where your time has been spent?
@@ -15,7 +15,7 @@ This script will scan your Out
     3. add current week to your clipboard
     4. paste your week into SAP. 
 
-##Simple Way
+## Simple Way
 
 Before we start, clone this repository directly to your C: from git. You must have Git installed.
 ```bash
