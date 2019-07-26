@@ -5,7 +5,7 @@
 * Do you find it is a one-way flow of information that you can't really use to manage your own time?
 * Do you struggle to figure out where your time has been spent?
 * Do you prefer **Outlook** to **SAP** to record your time?
-* You each quarter / Performance review would you like to know where your time was spent?
+* For each quarter / Performance review would you like to know where your time was spent?
 
 
 You can use this python script to:
