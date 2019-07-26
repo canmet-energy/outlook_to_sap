@@ -24,31 +24,28 @@ git clone https://github.com/canmet-energy/outlook_to_sap.git
 ```
 
 2. Edit your projects list by modifying the Excel projects.xlsx in the resources folder. The default is set to mine like this. 
-[[images/Excel.png]]
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/Excel.png)
+
 
 3. Use Prefixes for your events/meetings in outlook to match the nicknames that you have defined in your projects.xlsx file.
-[[images/outlook.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/outlook.png)
 
 3. Open up SAP and go to the week you wish to examine. Get the weeknumber.
-[[images/sap_week_number.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/sap_week_number.png)
 
 4. Edit the outlook_to_sap\sap_copy_week.bat and change the weeknumber and year.
-[[images/bat_file.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/bat_file.png)
 
 5. Run outlook_to_sap\sap_copy_week.bat. This will copy the week into your clipboard.
-[[images/command.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/command.png)
 
 6. Go to your SAP week Data Entry area, select the first Cost Center field and hit CTRL+v.
-[[images/sap_paster1.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/sap_paster1.png)
 
 7. You now have entered the week. Review the hours so it makes sense.  
-[[images/finish.png]] 
+![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/finish.png)
 
 Note: SAP supports Python scripting. I've requested that Agriculture Canada turn that feature on. That way you will not need to even paste into your timesheets in the near future. 
-
-
-# Want to know how this works?
-Examine the class contained in outlook_to_sap\lib\OutlookToPandas.py and Juptyer notebooks. You can do data-analytics on your own time and learn to use Python and create datavis like this. 
 
 
 
