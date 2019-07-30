@@ -27,7 +27,9 @@ git clone https://github.com/canmet-energy/outlook_to_sap.git
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/Excel.png)
 
 
-3. Use Prefixes for your events/meetings in outlook to match the nicknames that you have defined in your projects.xlsx file. For example to charge to the **Pathyways Project**. I prefix any timeslot with a **PW:** prefix I defined in my Excel file. 
+3. Use Prefixes for your events/meetings in outlook to match the nicknames that you have defined in your projects.xlsx file and optionally your task number. The syntax is <project_nickname>:<task_digits>:<Subject> For example to charge to the **Pathyways Project**. I prefix any timeslot with a **PW:** prefix I defined in my Excel file. If I had a btap task number.. it would be **PW:<task_digits>:subject**
+
+Note: BTAP Task users.. you can enter your btap_task number as well. It the prefix it with 
 ![alt text](https://github.com/canmet-energy/outlook_to_sap/raw/master/images/outlook.png)
 
 3. Open up SAP and go to the week you wish to examine. Get the weeknumber.
