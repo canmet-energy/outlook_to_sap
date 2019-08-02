@@ -15,7 +15,12 @@ You can use this python script to:
     3. add current week to your clipboard
     4. paste your week into SAP. 
 
+## Prequisites
+* Install [Python](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe) for windows 3.74.  
+* If you are wanting to learn more about Python, I would recommend installing [PyCharms Community Edition](https://download.jetbrains.com/python/pycharm-community-2019.2.exe)
+
 ## Simple Way
+
 
 1. Before we start, clone this repository directly to your C: from git. You must have Git installed.
 ```bash
